@@ -1,0 +1,96 @@
+*{
+    text-align: center;
+}
+
+/* h1{
+    background-color: red;
+    color: white;
+}
+
+.text-center{
+    text-align: center;
+}
+
+#head-two{
+    text-align: end;
+} */
+
+
+/* 
+h1 , h2 , h3{
+    background-color: red;
+    color: white;
+    text-align: center;
+} */
+
+/* child selector */
+
+
+/* .container > p{
+    text-align: end;
+    } */
+
+
+/* Descendant selector */
+
+
+/* .container p {
+    text-align: end;
+} */
+
+
+/* Adjacent Sibling Selector */
+
+
+/* .container + p{
+    background-color: red;
+    color: white;
+
+} */
+
+/* general Sibling Selector */
+
+
+/* .container ~ p{
+    background-color: red;
+    color: white;
+
+} */
+
+
+/* How Css Rules Cascade */
+
+
+/* #end-item{
+    text-align: end;
+}
+
+.text-center{
+    text-align: center;
+}
+
+h1{
+    text-align: start;
+    background-color: red;
+}
+
+*{
+    text-align: center;
+} */
+
+
+/* Inheritance */
+
+/* body{
+    text-align: center;
+    border: 1px solid black;
+} */
+
+body{
+    background-color: #000000;
+    color: #008b8b;
+}
+
+h1{
+    color: rgb(20, 100, 20);
+}
